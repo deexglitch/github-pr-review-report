@@ -1,0 +1,21 @@
+PR_NUMBER,PR_TITLE,AUTHOR,MERGE_DATE,CR_Passed,CHECKS_PASSED
+191660,Velbus: Migrate from via_device to child_device,cereal2nd,2026-11-22 11:20:36+00:00,True,True
+193772,Bump aiotractive to 2.1.1,bieniu,2026-11-22 11:10:11+00:00,True,True
+193778,"Revert ""Bump rpi_power to rpi-bad-power-ng 0.2.0 (#193678)""",erwindouna,2026-11-22 11:17:06+00:00,True,True
+192120,"Name nobo_hub zone devices ""Heating"" instead of the zone name",oyvindwe,2026-11-22 09:08:51+00:00,True,True
+193476,Add missing device class for AccuWeather sensor,bieniu,2026-11-21 10:31:41+00:00,True,True
+193663,Store Shelly RPC entity descriptions as tuples,thecode,2026-11-21 10:48:30+00:00,True,True
+193664,Store Shelly REST entity descriptions as tuples,thecode,2026-11-21 10:48:31+00:00,True,True
+193678,Bump rpi_power to rpi-bad-power-ng 0.2.0,marcomsousa,2026-11-22 08:39:38+00:00,True,True
+192731,Add LOG.SET download to nibe_heatpump,elupus,2026-11-22 08:52:32+00:00,True,True
+192730,Add heating curve image to nibe_heatpump,elupus,2026-11-22 08:51:50+00:00,True,True
+193768,Redact backup user details in ProxmoxVE diagnostics,CoMPaTech,2026-11-22 10:16:51+00:00,True,True
+192241,husqvarna_automower_ble: Catch exception when trying to reconnect,alistair23,2026-11-22 08:45:07+00:00,True,True
+193630,Bump python-qube-heatpump to 1.19.0,MattieGit,2026-11-21 08:55:41+00:00,True,True
+191109,Use Home Assistant time for Velbus sync_clock service,cereal2nd,2026-11-22 09:23:19+00:00,True,True
+185994,Migrate ProxmoxVE to aioproxmox,CoMPaTech,2026-11-22 09:32:48+00:00,True,True
+193715,Add get_forecasts_radar action to irm_kmi,YP30,2026-11-22 09:29:15+00:00,True,True
+190063,Add repair issue for deleted Seafile libraries,erwindouna,2026-11-22 09:25:57+00:00,True,True
+192973,Mark Jellyfin entities unavailable when the server is unreachable,RunC0deRun,2026-11-22 09:18:05+00:00,True,True
+192987,Add live updates to EPH Controls Ember,roberty99,2026-11-22 09:16:20+00:00,True,True
+192977,Add diagnostics to Intesis Modbus,TimoPtr,2026-11-22 09:16:07+00:00,True,True
